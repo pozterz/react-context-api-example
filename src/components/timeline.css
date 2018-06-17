@@ -1,0 +1,5 @@
+.timeline {
+  height: 100%;
+  max-width: calc(100% - 320px);
+  overflow-y: scroll;
+}
